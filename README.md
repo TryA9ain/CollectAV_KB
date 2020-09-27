@@ -60,3 +60,10 @@ CVE漏洞判断根据所影响的版本来判断
 
 如果目标没有杀软在运行，则直接输出漏洞和补丁信息
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-21-11.jpg)
+## 参考链接
+https://github.com/SecWiki/windows-kernel-exploits
+https://github.com/uknowsec/SharpAVKB
+https://github.com/AonCyberLabs/Windows-Exploit-Suggester
+https://github.com/tengzhangchao/microsoftSpider
+## 问题建议
+各位大佬们如有问题或建议，提交即可
