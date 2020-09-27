@@ -10,8 +10,10 @@
 *注意需要去cna中修改一下 `NoPowerShell.exe` 的路径，否则会报错，路径信息根据自己的路径修改即可
 
 修改前
+
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-30-59.jpg)
 修改后
+
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-31-31.jpg)
 ### 使用异步方法快速收集目标所运行的杀软和补丁信息
 要求目标的.NET版本为`.NET4.5`以上(因为用的异步方法只支持`.NET4.5+`，懒+嫌麻烦+菜=不改 (摊牌了，主要就是菜))
