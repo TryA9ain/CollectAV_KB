@@ -9,6 +9,8 @@
 漏洞列表根据 https://github.com/SecWiki/windows-kernel-exploits 
 来添加的，包含Win2019，Win2016，Win202，Win2008，Win10
 
+MS漏洞判断根据MS漏洞对应的补丁号来判断
+CVE漏洞判断根据所影响的版本来判断
 ## 使用方法
 可直接拉取源码使用vs2019默认环境编译，我也打包好了一份，直接下载即可
 推荐使用CS内存加载，上传到目标在执行也可
