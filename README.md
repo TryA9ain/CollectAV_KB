@@ -1,7 +1,7 @@
 # CollectAV_KB
 ## 辅助提权(.NET4.5+)
 2012以上自带`.NET4.5`,2008可选择静默安装
-
+下载地址：https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe
 ## 2008静默安装`.NET4.5`
 如果目标上有杀软的话，调用PS下载会被拦截
 
@@ -16,6 +16,20 @@
 修改后
 
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-31-31.jpg)
+
+测试环境为360+火绒
+
+![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-37-49.jpg)
+
+使用NoPowerShell来下载
+
+![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-46-04.jpg)
+
+![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-42-10.jpg)
+
+下载完毕使用`/Q /NORESTART /lcid 1033` 来静默安装
+
+![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-43-02.jpg)
 
 ### 使用异步方法快速收集目标所运行的杀软和补丁信息
 要求目标的.NET版本为`.NET4.5`以上(因为用的异步方法只支持`.NET4.5+`，懒+嫌麻烦+菜=不改 (摊牌了，主要就是菜))
