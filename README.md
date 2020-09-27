@@ -15,7 +15,7 @@ https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C5604279
 
 漏洞列表根据 https://github.com/SecWiki/windows-kernel-exploits 
 
-来添加的，包含Win2019，Win2016，Win202，Win2008，Win10
+来添加的，包含Win2019，Win2016，Win2012，Win2008，Win10
 
 MS漏洞判断根据MS漏洞对应的补丁号来判断
 
