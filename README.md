@@ -2,6 +2,11 @@
 ## 辅助提权(.NET4.5+)
 2012以上自带`.NET4.5`,2008可选择静默安装
 下载地址：https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C560427900/NDP452-KB2901907-x86-x64-AllOS-ENU.exe
+## 判断目标的.net版本
+使用 https://github.com/jmalarcon/DotNetVersions
+CS内存加载
+
+![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-53-19.jpg)
 ## 2008静默安装`.NET4.5`
 如果目标上有杀软的话，调用PS下载会被拦截
 
