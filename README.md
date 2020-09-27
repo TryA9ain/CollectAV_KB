@@ -22,11 +22,13 @@ MS漏洞判断根据MS漏洞对应的补丁号来判断
 CVE漏洞判断根据所影响的版本来判断
 ## 使用方法
 可直接拉取源码使用vs2019默认环境编译；或者直接下载已打包好的二进制文件即可
+
 推荐使用CS内存加载，无需文件落地；如要上传目标再执行也可
 
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_22-56-16.jpg)
 
 如果目标没有杀软在运行，则直接输出漏洞和补丁信息
+
 ![images](https://github.com/TryA9ain/CollectAV_KB/blob/master/images/Snipaste_2020-09-27_23-21-11.jpg)
 
 ## 判断目标的.net版本
