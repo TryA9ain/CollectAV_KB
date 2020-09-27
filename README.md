@@ -10,9 +10,11 @@ https://download.microsoft.com/download/E/2/1/E21644B5-2DF2-47C2-91BD-63C5604279
 要求目标的.NET版本为`.NET4.5`以上(因为用的异步方法只支持`.NET4.5+`，懒+嫌麻烦+菜=不改 (摊牌了，主要就是菜))
 
 杀软收集参考了 https://github.com/uknowsec/SharpAVKB
+
 添加了异步来加快收集速度；修改针对不同的Windows版本可利用的漏洞
 
 漏洞列表根据 https://github.com/SecWiki/windows-kernel-exploits 
+
 来添加的，包含Win2019，Win2016，Win202，Win2008，Win10
 
 MS漏洞判断根据MS漏洞对应的补丁号来判断
