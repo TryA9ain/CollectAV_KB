@@ -75,5 +75,4 @@ https://github.com/AonCyberLabs/Windows-Exploit-Suggester
 
 https://github.com/tengzhangchao/microsoftSpider
 ## 问题建议
-各位大佬们如有问题或建议，提交即可
-## 如果对您有用的话，请Star哦~~~~
+个人练手的,各位大佬们如有问题或建议，提交即可
